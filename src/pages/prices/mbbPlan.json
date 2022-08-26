@@ -1,0 +1,26 @@
+[
+    {
+        "id": 100,
+        "title": "Extra Small Data 5GB",
+        "cost": 15,
+        "discount": 0
+    },
+    {
+        "id": 200,
+        "title": "Small Data 30GB",
+        "cost": 25,
+        "discount": 0
+    },
+    {
+        "id": 300,
+        "title": "Medium Data 75GB",
+        "cost": 55,
+        "discount": 0
+    },
+    {
+        "id": 400,
+        "title": "Large Data 400GB",
+        "cost": 85,
+        "discount": 0
+    }
+]

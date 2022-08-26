@@ -1,0 +1,26 @@
+[
+    {
+        "id": 500,
+        "title": "Mobile Plan Starter 2GB",
+        "cost": 47,
+        "discount": 0
+    },
+    {
+        "id": 600,
+        "title": "Mobile Plan Basic 40GB",
+        "cost": 58,
+        "discount": 0
+    },
+    {
+        "id": 700,
+        "title": "Mobile Plan Essential 180GB",
+        "cost": 68,
+        "discount": 0
+    },
+    {
+        "id": 800,
+        "title": "Mobile Plan Premium 300GB",
+        "cost": 300,
+        "discount": 0
+    }
+]

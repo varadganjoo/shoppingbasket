@@ -1,0 +1,427 @@
+[
+    {   "brand": "Apple",
+        "devices":
+        [
+            {
+                "id": 7200,
+                "title": "Airpods Pro",
+                "cost": 399,
+                "discount": 0
+            },
+            {
+                "id": 7201,
+                "title": "Airpods with Charging Case",
+                "cost": 249,
+                "discount": 0
+            },
+            {
+                "id": 7202,
+                "title": "Airpods with Wireless Charging",
+                "cost": 319,
+                "discount": 0
+            },
+            {
+                "id": 7500,
+                "title": "Apple Pencil (no 24 months)",
+                "cost": 144,
+                "discount": 0
+            },
+            {
+                "id": 7203,
+                "title": "Apple Pencil (2nd Gen)",
+                "cost": 199,
+                "discount": 0
+            },
+            {
+                "id": 7204,
+                "title": "Apple Watch SE 40mm",
+                "cost": 504,
+                "discount": 0
+            },
+            {
+                "id": 7205,
+                "title": "Apple Watch SE 44mm - Space Grey",
+                "cost": 552,
+                "discount": 0
+            },
+            {
+                "id": 7206,
+                "title": "Apple Watch Series 6 40mm",
+                "cost": 749,
+                "discount": 0
+            },
+            {
+                "id": 7207,
+                "title": "Apple Watch Series 6 44mm",
+                "cost": 799,
+                "discount": 0
+            },
+            {
+                "id": 7208,
+                "title": "Apple Watch Series 7 41mm",
+                "cost": 749,
+                "discount": 0
+            },
+            {
+                "id": 7209,
+                "title": "Apple Watch Series 7 45mm",
+                "cost": 799,
+                "discount": 0
+            },
+            {
+                "id": 7210,
+                "title": "Apple Homepod Mini",
+                "cost": 149,
+                "discount": 0
+            },
+            {
+                "id": 7211,
+                "title": "Apple PowerBeats Pro",
+                "cost": 360,
+                "discount": 0
+            }
+            
+        ]
+    },
+    {   "brand": "Beats",
+        "devices":
+        [
+            {
+                "id": 7400,
+                "title": "Beats Solo Pro",
+                "cost": 429,
+                "discount": 0
+            },
+            {
+                "id": 7401,
+                "title": "Beats Studio 3",
+                "cost": 456,
+                "discount": 0
+            }    
+        ]
+    },
+    {   "brand": "Sennheiser",
+        "devices":
+        [
+            {
+                "id": 7400,
+                "title": "CX150BT Earbuds (no repayment option)",
+                "cost": 109,
+                "discount": 0
+            },
+            {
+                "id": 7401,
+                "title": "350 HD BT (no 24 months)",
+                "cost": 199,
+                "discount": 0
+            } 
+        ]
+    },
+    {   "brand": "Jabra",
+        "devices":
+        [
+            {
+                "id": 7600,
+                "title": "Elite 75t True Wireless (no 24 months)",
+                "cost": 219,
+                "discount": 0
+            },
+            {
+                "id": 7601,
+                "title": "Elite 75t True Wireless Active (no 24 months)",
+                "cost": 249,
+                "discount": 0
+            }    
+        ]
+    },
+    {   "brand": "Blueant",
+        "devices":
+        [
+            {
+                "id": 1000,
+                "title": "Blueant X0 (no repayment option)",
+                "cost": 60,
+                "discount": 0
+            },
+            {
+                "id": 1001,
+                "title": "Blueant X1 (no repayment option)",
+                "cost": 80,
+                "discount": 0
+            }, 
+            {
+                "id": 1002,
+                "title": "Blueant X2 (no repayment option)",
+                "cost": 120,
+                "discount": 0
+            }, 
+            {
+                "id": 1003,
+                "title": "Blueant X3",
+                "cost": 240,
+                "discount": 0
+            }, 
+            {
+                "id": 1004,
+                "title": "Blueant X5",
+                "cost": 384,
+                "discount": 0
+            },
+            {
+                "id": 1005,
+                "title": "Blueant Zone X",
+                "cost": 360,
+                "discount": 0
+            },
+            {
+                "id": 1006,
+                "title": "Blueant X4",
+                "cost": 299,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "EFM",
+        "devices":
+        [
+            {
+                "id": 8400,
+                "title": "Havana Bluetooth Speaker",
+                "cost": 240,
+                "discount": 0
+            }   
+        ]
+    },
+    {   "brand": "Xbox",
+        "devices":
+        [
+            {
+                "id": 8500,
+                "title": "Xbox Elite Controller",
+                "cost": 249,
+                "discount": 0
+            },
+            {
+                "id": 8600,
+                "title": "Seagate 1TB Series X Storage Expansion",
+                "cost": 359,
+                "discount": 0
+            },
+            {
+                "id": 8700,
+                "title": "SteeleSeries Arctis 1 for Xbox",
+                "cost": 229,
+                "discount": 0
+            },
+            {
+                "id": 8800,
+                "title": "Xbox Controller Carbon Black (no 24 months)",
+                "cost": 89,
+                "discount": 0
+            },
+            {
+                "id": 8801,
+                "title": "Xbox Controller Robot White (no 24 months)",
+                "cost": 89,
+                "discount": 0
+            },
+            {
+                "id": 8802,
+                "title": "Xbox Controller Shock Blue (no 24 months)",
+                "cost": 94,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Sprout",
+        "devices":
+        [
+            {
+                "id": 8999,
+                "title": "Sprout Nomad Mi (no 24 months)",
+                "cost": 180,
+                "discount": 0
+            },
+            {
+                "id": 9000,
+                "title": "Sprout Nomad 3 (no 24 months)",
+                "cost": 240,
+                "discount": 0
+            },
+            {
+                "id": 9001,
+                "title": "Sprout Immerse",
+                "cost": 360,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Fitbit",
+        "devices":
+        [
+            {
+                "id": 9100,
+                "title": "Fitbit Versa 2 (no 24 months)",
+                "cost": 299,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Google",
+        "devices":
+        [
+            {
+                "id": 9200,
+                "title": "Google Pixel Stand",
+                "cost": 120,
+                "discount": 0
+            },
+            {
+                "id": 9201,
+                "title": "Google Nest Hub (no repayment option)",
+                "cost": 149,
+                "discount": 0
+            },
+            {
+                "id": 9202,
+                "title": "Google Nest Audio (no repayment option)",
+                "cost": 149,
+                "discount": 0
+            },
+            {
+                "id": 9203,
+                "title": "Google Buds A Series",
+                "cost": 159,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Harmon Kardon",
+        "devices":
+        [
+            {
+                "id": 9300,
+                "title": "Harman Kardon Citation One (no 24 months)",
+                "cost": 299,
+                "discount": 0
+            },
+            {
+                "id": 9400,
+                "title": "Harman Kardon Citation Multibeam",
+                "cost": 799,
+                "discount": 0
+            },
+            {
+                "id": 9500,
+                "title": "Harman Kardon Onyx Studio 6",
+                "cost": 384,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Samsung",
+        "devices":
+        [
+            {
+                "id": 9600,
+                "title": "Galaxy Buds Live - Black",
+                "cost": 249,
+                "discount": 0
+            },
+            {
+                "id": 9700,
+                "title": "Galaxy Buds Pro",
+                "cost": 299,
+                "discount": 0
+            },
+            {
+                "id": 9800,
+                "title": "Galaxy Buds+ Black",
+                "cost": 299,
+                "discount": 0
+            },
+            {
+                "id": 9801,
+                "title": "Galaxy Buds 2",
+                "cost": 219,
+                "discount": 0
+            },
+            {
+                "id": 9900,
+                "title": "Galaxy Watch 3 - 41mm",
+                "cost": 799,
+                "discount": 0
+            },
+            {
+                "id": 10000,
+                "title": "Galaxy Watch 3 - 45mm",
+                "cost": 849,
+                "discount": 0
+            },
+            {
+                "id": 10100,
+                "title": "Galaxy Watch Active 2  - 40mm",
+                "cost": 749,
+                "discount": 0
+            },
+            {
+                "id": 10200,
+                "title": "Galaxy Watch Active 2  - 44mm",
+                "cost": 799,
+                "discount": 0
+            },
+            {
+                "id": 10201,
+                "title": "Galaxy Watch 4  - 40mm",
+                "cost": 499,
+                "discount": 0
+            },
+            {
+                "id": 10202,
+                "title": "Galaxy Watch 4  - 44mm",
+                "cost": 549,
+                "discount": 0
+            },
+            {
+                "id": 10203,
+                "title": "Galaxy Watch 4 Classic  - 42mm",
+                "cost": 649,
+                "discount": 0
+            },
+            {
+                "id": 10204,
+                "title": "Galaxy Watch 4  - 46mm",
+                "cost": 699,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Surface",
+        "devices":
+        [
+            {
+                "id": 10300,
+                "title": "Surface Pen - Black (no 24 months)",
+                "cost": 144,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Telstra",
+        "devices":
+        [
+            {
+                "id": 10400,
+                "title": "Telstra Go Repeater - Portable",
+                "cost": 864,
+                "discount": 0
+            },
+            {
+                "id": 10500,
+                "title": "Telstra Go Repeater - Stationary",
+                "cost": 816,
+                "discount": 0
+            }
+        ]
+    }
+]

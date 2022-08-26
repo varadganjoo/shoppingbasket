@@ -1,0 +1,531 @@
+[
+    {
+        "brand": "iPhone",
+        "devices": [
+            {
+                "id": 1400,
+                "title": "iPhone 13 Pro Max (128GB)",
+                "cost": 1849,
+                "discount": 0
+            },
+            {
+                "id": 1401,
+                "title": "iPhone 13 Pro Max (256GB)",
+                "cost": 2019,
+                "discount": 0
+            },
+            {
+                "id": 1402,
+                "title": "iPhone 13 Pro Max (512GB)",
+                "cost": 2369,
+                "discount": 0
+            },
+            {
+                "id": 1403,
+                "title": "iPhone 13 Pro Max (1TB)",
+                "cost": 2719,
+                "discount": 0
+            },
+            {
+                "id": 1404,
+                "title": "iPhone 13 Pro (128GB)",
+                "cost": 1699,
+                "discount": 0
+            },
+            {
+                "id": 1405,
+                "title": "iPhone 13 Pro (256GB)",
+                "cost": 1869,
+                "discount": 0
+            },
+            {
+                "id": 1406,
+                "title": "iPhone 13 Pro (512GB)",
+                "cost": 2219,
+                "discount": 0
+            },
+            {
+                "id": 1407,
+                "title": "iPhone 13 Pro (1TB)",
+                "cost": 2569,
+                "discount": 0
+            },
+            {
+                "id": 1408,
+                "title": "iPhone 13 (128GB)",
+                "cost": 1349,
+                "discount": 0
+            },
+            {
+                "id": 1409,
+                "title": "iPhone 13 (256GB)",
+                "cost": 1519,
+                "discount": 0
+            },
+            {
+                "id": 1410,
+                "title": "iPhone 13 (512GB)",
+                "cost": 1869,
+                "discount": 0
+            },
+            {
+                "id": 1411,
+                "title": "iPhone 13 Mini (128GB)",
+                "cost": 1199,
+                "discount": 0
+            },
+            {
+                "id": 1412,
+                "title": "iPhone 13 Mini (256GB)",
+                "cost": 1369,
+                "discount": 0
+            },
+            {
+                "id": 1413,
+                "title": "iPhone 13 Mini (512GB)",
+                "cost": 1718,
+                "discount": 0
+            },
+            {
+                "id": 1414,
+                "title": "iPhone 12 (64GB)",
+                "cost": 1199,
+                "discount": 0
+            },
+            {
+                "id": 1415,
+                "title": "iPhone 12 (128GB)",
+                "cost": 1279,
+                "discount": 0
+            },
+            {
+                "id": 1416,
+                "title": "iPhone 12 (256GB)",
+                "cost": 1449,
+                "discount": 0
+            },
+            {
+                "id": 1417,
+                "title": "iPhone 12 Mini (64GB)",
+                "cost": 999,
+                "discount": 0
+            },
+            {
+                "id": 1418,
+                "title": "iPhone 12 Mini (128GB)",
+                "cost": 1079,
+                "discount": 0
+            },
+            {
+                "id": 1419,
+                "title": "iPhone 12 Mini (256GB)",
+                "cost": 1249,
+                "discount": 0
+            },
+            {
+                "id": 1420,
+                "title": "iPhone 12 Pro (128GB)",
+                "cost": 1699,
+                "discount": 0
+            },
+            {
+                "id": 1421,
+                "title": "iPhone 12 Pro (256GB)",
+                "cost": 1869,
+                "discount": 0
+            },
+            {
+                "id": 1422,
+                "title": "iPhone 12 Pro (512GB)",
+                "cost": 2219,
+                "discount": 0
+            },
+            {
+                "id": 1423,
+                "title": "iPhone 12 Pro Max (128GB)",
+                "cost": 1849,
+                "discount": 0
+            },
+            {
+                "id": 1424,
+                "title": "iPhone 12 Pro Max (256GB)",
+                "cost": 2019,
+                "discount": 0
+            },
+            {
+                "id": 1425,
+                "title": "iPhone 12 Pro Max (512GB)",
+                "cost": 2369,
+                "discount": 0
+            },
+            {
+                "id": 1426,
+                "title": "iPhone XR (64GB)",
+                "cost": 679,
+                "discount": 0
+            },
+            {
+                "id": 1427,
+                "title": "iPhone XR (128GB)",
+                "cost": 759,
+                "discount": 0
+            },
+            {
+                "id": 1428,
+                "title": "iPhone 11 (64GB)",
+                "cost": 849,
+                "discount": 0
+            },
+            {
+                "id": 1429,
+                "title": "iPhone 11 (128GB)",
+                "cost": 929,
+                "discount": 0
+            },
+            {
+                "id": 1430,
+                "title": "iPhone SE (2nd Gen 64GB)",
+                "cost": 679,
+                "discount": 0
+            },
+            {
+                "id": 1431,
+                "title": "iPhone SE (2nd Gen 128GB)",
+                "cost": 759,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Samsung Phones",
+        "devices": [
+            {
+                "id": 3500,
+                "title": "Samsung Z Fold 3 (256GB)",
+                "cost": 2499,
+                "discount": 0
+            },
+            {
+                "id": 3501,
+                "title": "Samsung Z Fold 3 (512GB)",
+                "cost": 2649,
+                "discount": 0
+            },
+            {
+                "id": 3502,
+                "title": "Samsung Z Flip 3 (128GB)",
+                "cost": 1499,
+                "discount": 0
+            },
+            {
+                "id": 3503,
+                "title": "Samsung Z Flip 3 (256GB)",
+                "cost": 1599,
+                "discount": 0
+            },
+            {
+                "id": 3504,
+                "title": "Samsung S21 Ultra (128GB)",
+                "cost": 1848,
+                "discount": 0
+            },
+            {
+                "id": 3505,
+                "title": "Samsung S21 Ultra (256GB)",
+                "cost": 1944,
+                "discount": 0
+            },
+            {
+                "id": 3506,
+                "title": "Samsung S21+ (128GB)",
+                "cost": 1569,
+                "discount": 0
+            },
+            {
+                "id": 3507,
+                "title": "Samsung S21+ (256GB)",
+                "cost": 1632,
+                "discount": 0
+            },
+            {
+                "id": 3508,
+                "title": "Samsung S21 (128GB)",
+                "cost": 1248,
+                "discount":0
+            },
+            {
+                "id": 3509,
+                "title": "Samsung S21 (256GB)",
+                "cost": 1344,
+                "discount": 0
+            },
+            {
+                "id": 3510,
+                "title": "Samsung S20 Ultra (128GB)",
+                "cost": 1848,
+                "discount": 0
+            },
+            {
+                "id": 3511,
+                "title": "Samsung Z Flip 4G (256GB)",
+                "cost": 1499,
+                "discount": 0
+            },
+            {
+                "id": 3512,
+                "title": "Samsung S20+ 5G (128GB)",
+                "cost": 1649,
+                "discount": 0
+            },
+            {
+                "id": 3513,
+                "title": "Galaxy XCover Pro (64GB)",
+                "cost": 799,
+                "discount": 0
+            },
+            {
+                "id": 3514,
+                "title": "Samsung Note 20 Ultra (256GB)",
+                "cost": 1999,
+                "discount": 0
+            },
+            {
+                "id": 3515,
+                "title": "Samsung Note 20 (256GB)",
+                "cost": 1649,
+                "discount": 0
+            }, 
+            {
+                "id": 3516,
+                "title": "Samsung Z Fold 2 (256GB)",
+                "cost": 2499,
+                "discount": 0
+            },
+            {
+                "id": 3517,
+                "title": "Samsung Galaxy A11 (32GB)",
+                "cost": 249,
+                "discount": 0
+            },
+            {
+                "id": 3518,
+                "title": "Samsung Galaxy A21s (32GB)",
+                "cost": 324,
+                "discount": 0
+            },
+            {
+                "id": 3519,
+                "title": "Samsung Galaxy A21s (128GB)",
+                "cost": 336,
+                "discount": 0
+            },
+            {
+                "id": 3520,
+                "title": "Samsung S20 FE (128GB)",
+                "cost": 999,
+                "discount": 0
+            },
+            {
+                "id": 3521,
+                "title": "Samsung Galaxy A12 (128GB)",
+                "cost": 288,
+                "discount": 0
+            },
+            {
+                "id": 3522,
+                "title": "Samsung Galaxy A52s 5G (128GB)",
+                "cost": 648,
+                "discount": 0
+            },
+            {
+                "id": 3523,
+                "title": "Samsung Galaxy A32 (128GB)",
+                "cost": 480,
+                "discount": 0
+            },
+            {
+                "id": 3524,
+                "title": "Samsung Galaxy S21 FE (128GB)",
+                "cost": 999,
+                "discount": 0
+            },
+            {
+                "id": 3525,
+                "title": "Samsung Galaxy S21 FE (256GB)",
+                "cost": 1099,
+                "discount": 0
+            },
+            {
+                "id": 3526,
+                "title": "Samsung Galaxy S22 (128GB)",
+                "cost": 1249,
+                "discount": 0
+            },
+            {
+                "id": 3527,
+                "title": "Samsung Galaxy S22 (256GB)",
+                "cost": 1349,
+                "discount": 0
+            },
+            {
+                "id": 3528,
+                "title": "Samsung Galaxy S22+ (128GB)",
+                "cost": 1549,
+                "discount": 0
+            },
+            {
+                "id": 3529,
+                "title": "Samsung Galaxy S22+ (256GB)",
+                "cost": 1649,
+                "discount": 0
+            },
+            {
+                "id": 3530,
+                "title": "Samsung Galaxy S22 Ultra (128GB)",
+                "cost": 1849,
+                "discount": 0
+            },
+            {
+                "id": 3531,
+                "title": "Samsung Galaxy S22 Ultra (256GB)",
+                "cost": 1999,
+                "discount": 0
+            },
+            {
+                "id": 3532,
+                "title": "Samsung Galaxy S22 Ultra (512GB)",
+                "cost": 2149,
+                "discount": 0
+            },
+            {
+                "id": 3533,
+                "title": "Samsung Galaxy ZFold 4 (512GB)",
+                "cost": 2499,
+                "discount": 0
+            },
+            {
+                "id": 3534,
+                "title": "Samsung Galaxy ZFlip 4 (256GB)",
+                "cost": 1499,
+                "discount": 0
+            },
+            {
+                "id": 3535,
+                "title": "Samsung Galaxy ZFlip 4 (512GB)",
+                "cost": 1649,
+                "discount": 0
+            },
+            {
+                "id": 3536,
+                "title": "Samsung Galaxy A33 5G (128GB)",
+                "cost": 599,
+                "discount": 0
+            },
+            {
+                "id": 3537,
+                "title": "Samsung Galaxy A53 5G (128GB)",
+                "cost": 699,
+                "discount": 0
+            },
+            {
+                "id": 3538,
+                "title": "Samsung Galaxy A73 5G (128GB)",
+                "cost": 799,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Google",
+        "devices": [
+            {
+                "id": 3000,
+                "title": "Google Pixel 4a 5G (128GB)",
+                "cost": 799,
+                "discount": 0
+            },
+            {
+                "id": 3100,
+                "title": "Google Pixel 5 (128GB)",
+                "cost": 999,
+                "discount": 0
+            },
+            {
+                "id": 3101,
+                "title": "Google Pixel 6 (128GB)",
+                "cost": 999,
+                "discount": 0
+            },
+            {
+                "id": 3102,
+                "title": "Google Pixel 6 (256GB)",
+                "cost": 1129,
+                "discount": 0
+            },
+            {
+                "id": 3103,
+                "title": "Google Pixel 6 Pro (128GB)",
+                "cost": 1299,
+                "discount": 0
+            },
+            {
+                "id": 3104,
+                "title": "Google Pixel 6 Pro (256GB)",
+                "cost": 1499,
+                "discount": 0
+            },
+            {
+                "id": 3105,
+                "title": "Google Pixel 6 Pro (512GB)",
+                "cost": 1599,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Oppo",
+        "devices": [
+            {
+                "id": 3200,
+                "title": "Oppo Find X2 NEO 5G (256GB)",
+                "cost": 899,
+                "discount": 0
+            },
+            {
+                "id": 3300,
+                "title": "Oppo Find X2 Pro 5G (512GB)",
+                "cost": 1599,
+                "discount": 0
+            },
+            {
+                "id": 3400,
+                "title": "Oppo Find X3 Pro",
+                "cost": 1699,
+                "discount": 0
+            },
+            {
+                "id": 3401,
+                "title": "Oppo A94 5G",
+                "cost": 599,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Motorola",
+        "devices": [
+            {
+                "id": 4500,
+                "title": "Motorola Razr 4g Fold",
+                "cost": 2304,
+                "discount": 0
+            },
+            {
+                "id": 4600,
+                "title": "Motorola Moto G 5G Plus",
+                "cost": 499,
+                "discount": 0
+            }
+        ]
+    }
+]

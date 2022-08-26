@@ -1,0 +1,40 @@
+.mobile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.mobile__row {
+  display: flex;
+  z-index: 1;
+  overflow: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.mobile__checkbox {
+  display: flex;
+  height: fit-content;
+  margin-top: 10vh;
+  margin-left: 29vw;
+}
+
+.cis {
+  text-decoration: underline !important;
+  padding: 0.1%;
+  transition: 250ms;
+}
+
+.cis__row {
+  margin-top: 3vh;
+  margin-bottom: 2vh;
+  text-align: center;
+}
+
+.cis:hover {
+  background-color: rgb(223, 221, 221);
+  border-radius: 5px;
+}

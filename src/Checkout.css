@@ -1,0 +1,155 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  height: max-content;
+  margin-top: 0.8vh;
+  justify-content: center;
+}
+
+.title__container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 40vw;
+  margin-top: 2.5vh;
+  border-bottom: 1px solid lightgray;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.checkout__title {
+  padding: 10px;
+}
+
+.checkout__printIcon {
+  margin-top: 1vh;
+  color: black;
+  transition: 250ms;
+  padding: 0.2%;
+  z-index: 1;
+}
+
+.checkout__rightContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.clearBtn {
+  width: fit-content;
+  height: fit-content;
+  margin-top: 1vh;
+  margin-left: 10vw;
+  border: none;
+  border-radius: 10px;
+  transition: 250ms ease-in-out;
+}
+
+.clearBtn:hover {
+  background-color: rgb(175, 174, 174);
+  transform: translateY(-10px);
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.clearBtn:active {
+  background-color: gray;
+}
+
+.hoverIcon::before {
+  content: attr(data-tool-tip);
+  display: block;
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding: 0.1em 0.33em;
+  border-radius: 5px;
+  white-space: nowrap;
+  opacity: 0.7;
+  transform: scale(0);
+  top: -70%;
+  right: -100%;
+  transition: transform ease-in-out 150ms;
+}
+
+.hoverIcon:hover::before {
+  transform: scale(1);
+  right: -100%;
+  top: -70%;
+}
+
+/* .checkout__farRight {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  height: 1000vh;
+  margin-top: 7vh;
+  margin-left: 6vw;
+  align-items: center;
+} */
+
+@media print {
+  .header__nav *,
+  .checkout__printIcon,
+  .checkout__remove,
+  .clearBtn,
+  .checkout__changeDropdown {
+    visibility: hidden;
+  }
+
+  .title__container {
+    height: 5vh;
+  }
+
+  body {
+    background: white;
+  }
+
+  .checkoutProduct {
+    border: 1px solid lightgray;
+    height: 7vh;
+    max-height: 10vh;
+  }
+
+  .checkout__left * {
+    top: 0;
+  }
+
+  .checkout__left::after {
+    content: "*This is not an official quote";
+    font-size: medium;
+    color: lightgray;
+    margin-top: 95vh;
+  }
+
+  .ongoing > small {
+    margin-left: 50px;
+  }
+
+  .checkout__right {
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    -webkit-print-color-adjust: exact !important;
+  }
+
+  .checkout__right .subtotal {
+    width: 40vw;
+  }
+}
+
+.checkout__printIcon {
+  transition: 250ms ease-in-out;
+  height: fit-content;
+}
+
+.checkout__printIcon:hover {
+  background-color: rgb(175, 174, 174);
+  transform: translateY(-10px);
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+}
+
+.checkout__printIcon:active {
+  background-color: gray;
+}

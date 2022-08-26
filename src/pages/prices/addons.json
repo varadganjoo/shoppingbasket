@@ -1,0 +1,123 @@
+[
+    {
+        "brand": "Xbox",
+        "devices": [
+            {
+                "id": 10600,
+                "title": "Xbox Series S",
+                "cost": 33,
+                "discount": 0
+            },
+            {
+                "id": 10700,
+                "title": "Xbox Series X",
+                "cost": 46,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Entertainment",
+        "devices": [
+            {
+                "id": 10800,
+                "title": "Binge",
+                "cost": 15,
+                "discount": 0
+            },
+            {
+                "id": 10801,
+                "title": "Binge (3 months free)",
+                "cost": 0,
+                "discount": 0
+            },
+            {
+                "id": 10802,
+                "title": "Kayo",
+                "cost": 25,
+                "discount": 0
+            },
+            {
+                "id": 10803,
+                "title": "Kayo (First 12 months offer)",
+                "cost": 15,
+                "discount": 0
+            },
+            {
+                "id": 10804,
+                "title": "Trend Micro",
+                "cost": 10,
+                "discount": 0
+            },
+            {
+                "id": 10805,
+                "title": "Trend Micro (2 months free)",
+                "cost": 0,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "NBN Addons",
+        "devices": [
+            {
+                "id": 19101,
+                "title": "250 Mbps Speed Addon",
+                "cost": 30,
+                "discount": 0
+            },
+            {
+                "id": 19102,
+                "title": "700 Mbps Speed Addon",
+                "cost": 70,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Telstra Business Services",
+        "devices": [
+            {
+                "id": 11400,
+                "title": "TBS Cyber Security",
+                "cost": 80,
+                "discount": 0
+            },
+            {
+                "id": 11500,
+                "title": "TBS Tech Services",
+                "cost": 60,
+                "discount": 0
+            },
+            {
+                "id": 11600,
+                "title": "TBS Website Small",
+                "cost": 60,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Call Packs",
+        "devices": [
+            {
+                "id": 11700,
+                "title": "Zone 1",
+                "cost": 10,
+                "discount": 0
+            },
+            {
+                "id": 11800,
+                "title": "Zone 2",
+                "cost": 20,
+                "discount": 0
+            },
+            {
+                "id": 11900,
+                "title": "Zone 3",
+                "cost": 30,
+                "discount": 0
+            }
+        ]
+    }
+]

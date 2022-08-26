@@ -1,0 +1,77 @@
+.addDevice {
+  display: flex;
+  flex-direction: column;
+  max-width: 100vw;
+  overflow: hidden;
+}
+
+.addDevice__row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  z-index: 1;
+  margin-bottom: 1.5vh;
+}
+
+.addDevice__rowTwo {
+  display: flex;
+  flex-direction: column;
+  margin-top: 7vh;
+  width: 99vw;
+  margin-left: 0.25vw;
+  align-items: center;
+  justify-content: center;
+}
+
+.addDevice__searchBar {
+  display: flex;
+  justify-content: center;
+  margin-top: 3vh;
+}
+
+.searchBar {
+  width: 45vw;
+  padding: 1.5%;
+  border: 5px solid transparent;
+  border-radius: 10px;
+  font-size: large;
+}
+
+.addDevice__rowThree {
+  display: flex;
+  flex-direction: row;
+  overflow-x: auto;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+}
+
+.addDevice__checkbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-left: 10vh;
+  flex-wrap: wrap;
+  max-width: fit-content;
+}
+
+.addDevice__hro {
+  margin-left: -11vh;
+}
+
+.addDevice__buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 2vh;
+}
+
+.addDevice__contractTerm {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.addDevice__rowTwo > h3 {
+  padding: 1%;
+  margin-top: -3%;
+}

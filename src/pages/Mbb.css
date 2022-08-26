@@ -1,0 +1,30 @@
+.mbb {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: row;
+  flex-direction: row;
+}
+
+.mbbTwo {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.mbb__row {
+  display: flex;
+  z-index: 1;
+  margin-top: 15vh;
+  overflow: auto;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+.mbb__cis {
+  margin-top: 3vh;
+  margin-bottom: 2vh;
+}

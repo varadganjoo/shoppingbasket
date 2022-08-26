@@ -1,0 +1,268 @@
+[
+    {   "brand": "iPad",
+        "devices":
+        [
+            {
+                "id": 4700,
+                "title": "iPad Air 4 (64GB)",
+                "cost": 1099,
+                "discount": 0
+            },
+            {
+                "id": 4800,
+                "title": "iPad Air 4 (256GB)",
+                "cost": 1329,
+                "discount": 0
+            },
+            {
+                "id": 4900,
+                "title": "iPad 10.2 (Gen 8) (32GB)",
+                "cost": 699,
+                "discount": 0
+            },
+            {
+                "id": 5000,
+                "title": "iPad 10.2 (Gen 8) (128GB)",
+                "cost": 849,
+                "discount": 0
+            },
+            {
+                "id": 5100,
+                "title": "iPad Pro 11 (Gen 3) (128GB)",
+                "cost": 1449,
+                "discount": 0
+            },
+            {
+                "id": 5200,
+                "title": "iPad Pro 11 (Gen 3) (256GB)",
+                "cost": 1599,
+                "discount": 0
+            },
+            {
+                "id": 5300,
+                "title": "iPad Pro 11 (Gen 3) (512GB)",
+                "cost": 1899,
+                "discount": 0
+            },
+            {
+                "id": 5400,
+                "title": "iPad Pro 11 (Gen 3) (1TB)",
+                "cost": 2499,
+                "discount": 0
+            },
+            {
+                "id": 5500,
+                "title": "iPad Pro 11 (Gen 3) (2TB)",
+                "cost": 3099,
+                "discount": 0
+            },
+            {
+                "id": 5600,
+                "title": "iPad Pro 12.9 (Gen 5) (128GB)",
+                "cost": 1899,
+                "discount": 0
+            },
+            {
+                "id": 5700,
+                "title": "iPad Pro 12.9 (Gen 3) (256GB)",
+                "cost": 2049,
+                "discount": 0
+            },
+            {
+                "id": 5800,
+                "title": "iPad Pro 12.9 (Gen 3) (512GB)",
+                "cost": 2349,
+                "discount": 0
+            },
+            {
+                "id": 5900,
+                "title": "iPad Pro 12.9 (Gen 3) (1TB)",
+                "cost": 2949,
+                "discount": 0
+            },
+            {
+                "id": 6000,
+                "title": "iPad Pro 12.9 (Gen 3) (2TB)",
+                "cost": 3549,
+                "discount": 0
+            },
+            {
+                "id": 6001,
+                "title": "iPad Air 5 (64GB)",
+                "cost": 1159,
+                "discount": 0
+            },
+            {
+                "id": 6002,
+                "title": "iPad Air 5 (256GB)",
+                "cost": 1389,
+                "discount": 0
+            },
+            {
+                "id": 6003,
+                "title": "iPad (Gen 9) (64GB)",
+                "cost": 699,
+                "discount": 0
+            },
+            {
+                "id": 6004,
+                "title": "iPad (Gen 9) (256GB)",
+                "cost": 929,
+                "discount": 0
+            },
+            {
+                "id": 6005,
+                "title": "iPad Mini (Gen 6) (64GB)",
+                "cost": 979,
+                "discount": 0
+            },
+            {
+                "id": 6006,
+                "title": "iPad Mini (Gen 6) (256GB)",
+                "cost": 1209,
+                "discount": 0
+            },
+            {
+                "id": 6007,
+                "title": "iPad Mini (Gen 5) (64GB)",
+                "cost": 816,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Surface",
+        "devices":
+        [
+            {
+                "id": 6100,
+                "title": "Microsoft Surface Go Home (128GB)",
+                "cost": 984,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Samsung Tablets",
+        "devices":
+        [
+            {
+                "id": 6200,
+                "title": "Samsung Tab A7 (32GB)",
+                "cost": 529,
+                "discount": 0
+            },
+            {
+                "id": 6201,
+                "title": "Galaxy Tab Active Pro (64GB)",
+                "cost": 1179,
+                "discount": 0
+            },
+            {
+                "id": 6202,
+                "title": "Galaxy Tab Active 3 (64GB)",
+                "cost": 849,
+                "discount": 0
+            },
+            {
+                "id": 6300,
+                "title": "Samsung Tab S7 (128 GB)",
+                "cost": 1249,
+                "discount": 0
+            },
+            {
+                "id": 6400,
+                "title": "Samsung Tab S7+ (128 GB)",
+                "cost": 1944,
+                "discount": 0
+            },
+            {
+                "id": 6401,
+                "title": "Samsung Tab S8 (128 GB)",
+                "cost": 1299,
+                "discount": 0
+            },
+            {
+                "id": 6402,
+                "title": "Samsung Tab S8 (256 GB)",
+                "cost": 1449,
+                "discount": 0
+            },
+            {
+                "id": 6403,
+                "title": "Samsung Tab S8+ (128 GB)",
+                "cost": 1699,
+                "discount": 0
+            },
+            {
+                "id": 6404,
+                "title": "Samsung Tab S8+ (256 GB)",
+                "cost": 1849,
+                "discount": 0
+            },
+            {
+                "id": 6405,
+                "title": "Samsung Tab S8 Ultra (128 GB)",
+                "cost": 1999,
+                "discount": 0
+            },
+            {
+                "id": 6406,
+                "title": "Samsung Tab S8 Ultra (256 GB)",
+                "cost": 2199,
+                "discount": 0
+            },
+            {
+                "id": 6200,
+                "title": "Samsung Tab A8 (64GB)",
+                "cost": 529,
+                "discount": 0
+            }
+        ]
+    },
+    {   "brand": "Modems",
+        "devices":
+        [
+            {
+                "id": 6500,
+                "title": "Nighthawk M2",
+                "cost": 384,
+                "discount": 0
+            },
+            {
+                "id": 6600,
+                "title": "Nighthawk M5",
+                "cost": 696,
+                "discount": 0
+            },
+            {
+                "id": 6700, 
+                "title": "Orbi Router with Satellite",
+                "cost": 399,
+                "discount": 0
+            },
+            {
+                "id": 6800,
+                "title": "4GX Modem",
+                "cost": 288,
+                "discount": 0
+            },
+            {
+                "id": 6900,
+                "title": "4GX USB",
+                "cost": 144,
+                "discount": 0
+            },
+            {
+                "id": 7000,
+                "title": "4GX Hotspot",
+                "cost": 144,
+                "discount": 0
+            },
+            {
+                "id": 7100,
+                "title": "5G WiFi Pro",
+                "cost": 599,
+                "discount": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,119 @@
+[
+    {
+        "brand": "Pre-Paid Mobile",
+        "devices": [
+            {
+                "id": 12000,
+                "title": "2GB - 7 days",
+                "cost": 10,
+                "discount": 0
+            },
+            {
+                "id": 12100,
+                "title": "10GB - 28 days",
+                "cost": 30,
+                "discount": 0
+            },
+            {
+                "id": 12200,
+                "title": "20GB - 28 days",
+                "cost": 40,
+                "discount": 0
+            },
+            {
+                "id": 12300,
+                "title": "30GB - 28 days",
+                "cost": 50,
+                "discount": 0
+            },
+            {
+                "id": 12400,
+                "title": "40GB - 28 days",
+                "cost": 60,
+                "discount": 0
+            },
+            {
+                "id": 12500,
+                "title": "60GB - 6 months",
+                "cost": 150,
+                "discount": 0
+            },
+            {
+                "id": 12600,
+                "title": "150GB - 12 months",
+                "cost": 300,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Pre-Paid Mobile Casual",
+        "devices": [
+            {
+                "id": 12700,
+                "title": "150MB - 45 days",
+                "cost": 20,
+                "discount": 0
+            },
+            {
+                "id": 12800,
+                "title": "300MB - 6 months",
+                "cost": 30,
+                "discount": 0
+            },
+            {
+                "id": 12900,
+                "title": "500MB - 6 months",
+                "cost": 50,
+                "discount": 0
+            },
+            {
+                "id": 13000,
+                "title": "700MB - 12 months",
+                "cost": 70,
+                "discount": 0
+            },
+            {
+                "id": 13100,
+                "title": "1GB - 12 months",
+                "cost": 100,
+                "discount": 0
+            }
+        ]
+    },
+    {
+        "brand": "Pre-Paid Mobile Broadband",
+        "devices": [
+            {
+                "id": 13200,
+                "title": "5GB - 15 days",
+                "cost": 20,
+                "discount": 0
+            },
+            {
+                "id": 13300,
+                "title": "12GB - 28 days",
+                "cost": 30,
+                "discount": 0
+            },
+            {
+                "id": 13400,
+                "title": "35GB - 28 days",
+                "cost": 50,
+                "discount": 0
+            },
+            {
+                "id": 13600,
+                "title": "40GB - 12 months",
+                "cost": 150,
+                "discount": 0
+            },
+            {
+                "id": 13700,
+                "title": "180GB - 12 months",
+                "cost": 300,
+                "discount": 0
+            }
+        ]
+    }
+]

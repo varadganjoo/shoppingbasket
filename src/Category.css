@@ -1,0 +1,44 @@
+.category {
+  display: flex;
+  margin: 1vw;
+  width: 28vw;
+  height: 25vh;
+  align-items: center;
+  justify-content: space-evenly;
+  background-color: white;
+  border: none;
+  border-radius: 20px;
+  transition: 250ms ease-in-out;
+  font-size: medium;
+}
+
+.category:hover {
+  transform: translateY(-10px);
+  cursor: pointer;
+  border-radius: 20px;
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
+  background-image: linear-gradient(to right, #743ad5, #d53a9d, #fcb355);
+  border-width: 2px;
+  border-style: solid;
+  -moz-border-image: -moz-linear-gradient(
+    right,
+    #743ad5 0%,
+    #d53a9d 50%,
+    #fcb355 100%
+  );
+  -webkit-border-image: -webkit-linear-gradient(
+    right,
+    #743ad5 0%,
+    #d53a9d 50%,
+    #fcb355 100%
+  );
+  border-image: linear-gradient(
+    to right,
+    #743ad5 0%,
+    #d53a9d 50%,
+    #fcb355 100%
+  );
+  -webkit-border-image-slice: 2;
+  border-image-slice: 2;
+  color: white;
+}

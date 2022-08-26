@@ -1,0 +1,119 @@
+.header {
+  height: 70px;
+  display: flex;
+  position: relative;
+  z-index: 100;
+  width: 100%;
+  max-width: 100%;
+}
+
+.logo::after {
+  content: "";
+  background: linear-gradient(to right, #743ad5, #d53a9d, #fcb355);
+  display: block;
+  width: 100vw;
+  height: 0.5vh;
+  margin-left: -84vw;
+  margin-top: -1.5em;
+  pointer-events: none;
+  cursor: default;
+}
+
+.headerIcon::after {
+  content: attr(data-tool-tip);
+  display: block;
+  position: absolute;
+  background-color: black;
+  color: white;
+  padding: 0.1em 0.33em;
+  border-radius: 5px;
+  white-space: nowrap;
+  opacity: 0.7;
+  transform: scale(0);
+  top: 105%;
+  right: -20%;
+  transition: transform ease-in-out 150ms;
+  z-index: 1;
+}
+
+.headerIcon:hover::after {
+  transform: scale(1);
+  top: 105%;
+  right: -20%;
+}
+
+.header__nav {
+  align-items: center;
+  width: 2000px;
+}
+
+.header__optionBasket {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  font-size: large;
+  position: absolute;
+  margin-top: 2vh;
+  margin-left: 65vw;
+  align-items: center;
+  transition: 250ms;
+  padding: 0.2%;
+  z-index: 1;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.header__optionBasket:hover {
+  transform: translateY(-7px);
+  background-color: rgb(175, 174, 174);
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+
+.header__optionBasket:active {
+  background-color: gray;
+}
+
+.header__backButton {
+  display: flex;
+  position: absolute;
+  margin-top: 2vh;
+  margin-left: 30vw;
+  color: black;
+  transition: 250ms;
+  padding: 0.2%;
+  z-index: 1;
+}
+
+.header__backButton:hover {
+  background-color: rgb(175, 174, 174);
+  transform: translateY(-7px);
+  box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+
+.header__backButton:active {
+  background-color: gray;
+}
+
+.header__logo {
+  display: flex;
+  position: absolute;
+  margin-top: 1.75em;
+  margin-left: 84vw;
+  transition: 250ms;
+  width: fit-content;
+  height: fit-content;
+  z-index: 0;
+}
+
+.logo {
+  width: 3.5em;
+}
+
+.header__logo > a > img {
+  height: 4em;
+}

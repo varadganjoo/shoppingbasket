@@ -1,0 +1,26 @@
+.subtotal {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  font-size: x-large;
+  padding-left: 1vw;
+  max-width: 18.5em;
+  width: fit-content;
+  margin-top: 1em;
+  border: 1px solid #dddddd;
+  border-radius: 4px;
+  background-color: lightgreen;
+  justify-content: space-between;
+}
+
+.title {
+  display: block;
+  padding-bottom: 0.75vh;
+}
+
+.cost {
+  display: block;
+  position: relative;
+  text-align: right;
+  padding-right: 0.5em;
+}

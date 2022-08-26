@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1100,
+        "title": "Starter Bundle",
+        "cost": 65,
+        "discount": 0
+    },
+    {
+        "id": 1101,
+        "title": "Core Bundle",
+        "cost": 80,
+        "discount": 0
+    },
+    {
+        "id": 1102,
+        "title": "Unlimited Bundle",
+        "cost": 95,
+        "discount": 0
+    },
+    {
+        "id": 1103,
+        "title": "Premium Bundle (12 month offer)",
+        "cost": 110,
+        "discount": 0
+    },
+    {
+        "id": 1104,
+        "title": "Business Bundle",
+        "cost": 100,
+        "discount": 0
+    },
+    {
+        "id": 1105,
+        "title": "Ultimate Voice (Voice Only)",
+        "cost": 55,
+        "discount": 0
+    }
+]
