@@ -5,7 +5,7 @@ This is a shopping basket web app that allows users to select products from a pr
 
 Dataset created using the publically accessible information from the Telstra Website.
 
-The site can be accessed at: https://shopping-basket-83e33.web.app/ (https://shopping-basket-83e33.web.app/)
+The site can be accessed at: https://shopping-basket-83e33.web.app/ 
 
 ## Acknowledgements
 
