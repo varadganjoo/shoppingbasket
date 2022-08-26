@@ -7,6 +7,8 @@ Dataset created using the publically accessible information from the Telstra Web
 
 The site can be accessed at: https://shopping-basket-83e33.web.app/ 
 
+Repo missing node_modules, error in adding files
+
 ## Acknowledgements
 
 - [Telstra](https://www.telstra.com.au)
